@@ -40,11 +40,12 @@ b{
 }
 
 ul {
-    list-style-type: none;
+  font-family:Impact;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    
   }
   
   li {
@@ -60,7 +61,7 @@ ul {
   }
   
   li a:hover {
-    background-color: #111;
+    background-color:rgb(20, 181, 230);
   }
 
   .footer {
@@ -73,11 +74,6 @@ ul {
     text-align: center;
   }
 
-  .navbar {
-    
-    font-family:Arial;
-
-  }
 
 img.facebook{
     width:56px;
@@ -104,4 +100,8 @@ img.github{
  
     margin-left:420px;
 
+  }
+
+  div.navbar{
+    font-family:Impact;
   }

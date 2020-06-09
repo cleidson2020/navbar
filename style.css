@@ -12,7 +12,7 @@ border-radius:100%;
 
 h1{
  text-align:center;
- font-family:Arial;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 
@@ -71,4 +71,10 @@ ul {
     background-color:black;
     color: white;
     text-align: center;
+  }
+
+  .navbar {
+    
+    font-family:Arial;
+
   }

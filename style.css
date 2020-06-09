@@ -78,3 +78,30 @@ ul {
     font-family:Arial;
 
   }
+
+img.facebook{
+    width:56px;
+    left:100px;
+    margin-left:50px;
+  }
+img.instagram{
+    width:56px;
+    left:100px;
+    margin-left:50px;
+  }
+img.github{
+    width:56px;
+    left:100px;
+    margin-left:50px;
+  }
+  img.linkedin{
+    width:56px;
+    left:100px;
+    margin-left:50px;
+  }
+
+  div.logos{
+ 
+    margin-left:420px;
+
+  }
